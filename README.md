@@ -1,4 +1,4 @@
-# Jiraan
+# Refresher Web App
 #### A python application for dummies
 ####  **[Sauda Habib](https://github.com/saudahabib)**
 ## Description
@@ -17,7 +17,8 @@ NO known Bugs.
 ## Behavior Driven Development
 
 | Behaviour| Input | Output |
-| Has no specific behavior | Has no input | Has no output
+| ------------- | ----------------- | ------------------ |
+| No specifications | No input | No output
 
 
 ## Technologies Used
